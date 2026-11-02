@@ -52,7 +52,6 @@ postgres  firebase  tailwind  three.js  html/css  git
 
 <img src="assets/stats.svg" alt="terminal-style GitHub stats" width="495">
 
-<img src="https://streak-stats.demolab.com/?user=KhuranaCode&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 
 <!-- contribution snake: appears after the GitHub Action in .github/workflows/snake.yml has run once -->
 <picture>
