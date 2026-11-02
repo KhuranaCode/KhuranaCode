@@ -50,7 +50,7 @@ postgres  firebase  tailwind  three.js  html/css  git
 
 <div align="center">
 
-<img src="assets/stats.svg" alt="terminal-style GitHub stats" width="495">
+<img src="assets/stats.svg?v=2" alt="terminal-style GitHub stats" width="495">
 
 
 <!-- contribution snake: appears after the GitHub Action in .github/workflows/snake.yml has run once -->
