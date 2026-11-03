@@ -34,7 +34,7 @@ winner, Zinnovatio 4.0 @ Chandigarh University (team Grexars, NagarTrace)
 
 </div>
 
-### my stack
+### project technologies
 
 <div align="center">
 
