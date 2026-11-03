@@ -38,7 +38,7 @@ winner, Zinnovatio 4.0 @ Chandigarh University (team Grexars, NagarTrace)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,fastify,postgres,firebase,tailwind,threejs,flutter,dart,html,css,git&perline=7" alt="my stack: typescript, javascript, react, node, fastify, postgres, firebase, tailwind, three.js, flutter, dart, html, css, git">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,firebase,tailwind,threejs,flutter,dart,html,css,git&perline=7" alt="my stack: typescript, javascript, react, node, fastify, postgres, firebase, tailwind, three.js, flutter, dart, html, css, git">
 
 </div>
 
