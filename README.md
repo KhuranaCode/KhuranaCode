@@ -30,7 +30,7 @@ winner, Zinnovatio 4.0 @ Chandigarh University (team Grexars, NagarTrace)
 
 <div align="center">
 
-<img src="assets/terminal.svg?v=2" alt="profile.sh --live: system info and visual map" width="100%">
+<img src="assets/terminal.svg?v=3" alt="profile.sh --live: system info and visual map" width="100%">
 
 </div>
 
