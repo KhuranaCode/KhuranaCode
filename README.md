@@ -28,12 +28,19 @@ winner, Zinnovatio 4.0 @ Chandigarh University (team Grexars, NagarTrace)
 1st, Hackathon 2026 (SIH internal round), Thapar Polytechnic College
 ```
 
-### project technologies
+<div align="center">
 
-```txt
-typescript  javascript  react  node  fastify
-postgres  firebase  tailwind  three.js  html/css  git
-```
+<img src="assets/terminal.svg" alt="profile.sh --live: system info and visual map" width="100%">
+
+</div>
+
+### my stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,fastify,postgres,firebase,tailwind,threejs,flutter,dart,html,css,git&perline=7" alt="my stack: typescript, javascript, react, node, fastify, postgres, firebase, tailwind, three.js, flutter, dart, html, css, git">
+
+</div>
 
 ### projects
 
